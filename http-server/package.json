@@ -1,0 +1,15 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\""
+  },
+  "author": "Prijwal <prijuh201003@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.54.0"
+  }
+}
