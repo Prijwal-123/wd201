@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 let toggleTodoCompletedStatus = (todoItem) => {
     todoItem.completed = !todoItem.completed;
     return todoItem;
